@@ -2,14 +2,6 @@
   <img src="https://raw.githubusercontent.com/fikibrahim/fikibrahim/main/assets/banner.png" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Taufik Ibrahim</h1>
-
-<p align="center">
-  <b>Web Developer</b> •
-  <b>Mobile Developer</b> •
-  <b>Software Engineer</b>
-</p>
-
 <p align="center">
 Building Scalable Solutions for Web, Mobile, and AI Era
 </p>
