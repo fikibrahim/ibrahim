@@ -1,72 +1,15 @@
-<h1 align="center">Taufik Ibrahim</h1>
+<h1 align="center">
+  Taufik Ibrahim
+</h1>
 
 <p align="center">
-Web Developer • Mobile Developer • Software Engineer
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=1000&center=true&vCenter=true&width=900&lines=%3E+Software+Engineer;%3E+Web+Developer;%3E+Mobile+Developer;%3E+AI+Explorer;%3E+Clean+Architecture+Advocate" />
 </p>
 
 <p align="center">
-Building scalable enterprise systems, mobile applications, and AI-powered solutions.
+  <img src="https://skillicons.dev/icons?i=laravel,flutter,kotlin,vue,php,dart" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fikibrahim&style=flat-square" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-Name: Taufik Ibrahim
-Role: Software Engineer
-Location: Indonesia
-
-Specialization:
-  - Web Development
-  - Mobile Development
-  - Enterprise Systems
-
-Currently Learning:
-  - Flutter Clean Architecture
-  - Advanced BLoC Pattern
-  - Kotlin Development
-  - Machine Learning
-```
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,flutter,dart,kotlin,mysql,git,github,docker,vscode,figma&perline=6" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=fikibrahim&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikibrahim&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center"> <img src="https://streak-stats.demolab.com?user=fikibrahim&theme=tokyonight&hide_border=true"/> </p>
-
----
-
-## 📌 Core Technologies
-
-| Category | Technologies                  |
-| -------- | ----------------------------- |
-| Backend  | Laravel, PHP, CodeIgniter     |
-| Frontend | Vue.js, JavaScript, HTML, CSS |
-| Mobile   | Flutter, Dart, Kotlin         |
-| Database | MySQL, SQL Server             |
-| Tools    | Git, Docker, Postman, VS Code |
-
----
-
-<p align="center">
-<i>Building software that solves real-world problems through clean architecture and continuous innovation.</i>
+  🚀 Building software that scales • 📱 Crafting mobile experiences • 🤖 Exploring AI innovation
 </p>
