@@ -147,7 +147,7 @@ Cross-platform mobile application integrated with REST API and real-time monitor
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fikibrahim&theme=tokyonight&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=fikibrahim&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
 ---
@@ -156,7 +156,7 @@ Cross-platform mobile application integrated with REST API and real-time monitor
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/taufik-ibrahim-9a385312b/)">
+<a href="https://www.linkedin.com/in/taufik-ibrahim-9a385312b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
