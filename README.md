@@ -22,9 +22,7 @@ Building scalable enterprise systems, modern mobile applications, and AI-powered
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/fikibrahim/fikibrahim/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/fikibrahim/fikibrahim/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
