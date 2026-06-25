@@ -50,15 +50,6 @@
 
 ---
 
-### 🎯 Current Focus
-
-* Flutter Clean Architecture
-* BLoC Pattern
-* Kotlin Android Development
-* AI & Machine Learning
-
----
-
 <p align="center">
   <i>"Building scalable digital solutions through clean architecture and continuous innovation."</i>
 </p>
