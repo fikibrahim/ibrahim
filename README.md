@@ -22,4 +22,4 @@ Building scalable enterprise systems, modern mobile applications, and AI-powered
   <img src="https://komarev.com/ghpvc/?username=fikibrahim&style=for-the-badge&color=blueviolet"/>
 </p>
 
-
+<p align="center"> <img src="https://streak-stats.demolab.com?user=fikibrahim&theme=tokyonight&hide_border=true"/> </p>
