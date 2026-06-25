@@ -1,69 +1,73 @@
-<!-- Banner -->
+<!-- HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:667eea,100:764ba2&text=Taufik%20Ibrahim&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Taufik%20Ibrahim&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Taufik Ibrahim</h1>
+<h1 align="center">Hi 👋, I'm Taufik Ibrahim</h1>
 
 <h3 align="center">
 Web Developer • Mobile Developer • Software Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Laravel+Developer;Flutter+Developer;Kotlin+Developer;Vue.js+Developer;Software+Engineer;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Laravel+Developer;Flutter+Developer;Kotlin+Developer;Vue.js+Developer;Software+Engineer;Building+Scalable+Digital+Solutions" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fikibrahim&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-I am a passionate software developer with experience building enterprise applications, transportation management systems, supplier management platforms, and mobile applications.
+Passionate Software Engineer with experience in developing enterprise web applications, transportation management systems, supplier management solutions, and cross-platform mobile applications.
 
-💡 Focused on developing scalable, maintainable, and business-oriented solutions.
+I enjoy transforming business requirements into scalable, maintainable, and high-performance digital products.
 
 ### Current Focus
 
-* 🌐 Web Development
-* 📱 Mobile Development
-* ☁️ REST API Integration
-* 🏗️ Software Architecture
+* 🌐 Enterprise Web Development
+* 📱 Mobile Application Development
+* 🏗️ Software Architecture & Design Patterns
+* 🔌 REST API & System Integration
 * 🤖 Artificial Intelligence & Machine Learning
 
 ---
 
-## 🚀 Tech Stack
+## 💻 Tech Stack
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,codeigniter" />
+<img src="https://skillicons.dev/icons?i=php,laravel,codeigniter,nodejs" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,vue,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,vue,bootstrap,tailwind,html,css" />
 </p>
 
-### Mobile Development
+### Mobile
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-### Tools & Others
+### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker,vscode,figma" />
 </p>
 
 ---
@@ -72,20 +76,20 @@ I am a passionate software developer with experience building enterprise applica
 
 ### 🚚 Transportation Tracking System
 
-Web-based transportation tracking and monitoring application for operational management.
+Transportation monitoring and tracking platform with real-time operational visibility.
 
 **Tech Stack**
 
 * Laravel
 * Vue.js
-* MySQL
 * REST API
+* MySQL
 
 ---
 
 ### 📋 Work Order Management System
 
-Enterprise system for managing work orders, assignments, projects, and resources.
+Enterprise work order platform for assignment management, scheduling, and resource allocation.
 
 **Tech Stack**
 
@@ -98,7 +102,7 @@ Enterprise system for managing work orders, assignments, projects, and resources
 
 ### 🏢 Supplier Management System
 
-Vendor onboarding, documentation, evaluation, and supplier classification management.
+Supplier onboarding, document management, and vendor evaluation platform.
 
 **Tech Stack**
 
@@ -110,13 +114,13 @@ Vendor onboarding, documentation, evaluation, and supplier classification manage
 
 ### 📱 Mobile Tracking Application
 
-Cross-platform mobile application integrated with REST API and real-time monitoring.
+Cross-platform mobile application integrated with backend services and real-time data synchronization.
 
 **Tech Stack**
 
 * Flutter
 * Dart
-* BLoC
+* BLoC Pattern
 * REST API
 
 ---
@@ -124,56 +128,64 @@ Cross-platform mobile application integrated with REST API and real-time monitor
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=fikibrahim&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikibrahim&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikibrahim&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=fikibrahim&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🎯 Current Goals
+## 📈 Contribution Graph
 
-* 📱 Master Flutter Clean Architecture
-* 🔥 Improve Flutter BLoC Pattern Skills
-* 🤖 Deepen AI & Machine Learning Knowledge
-* ☁️ Learn Cloud & DevOps Technologies
-* 🌟 Contribute to Open Source Projects
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fikibrahim&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🎯 Current Learning Path
+
+* Flutter Clean Architecture
+* Advanced BLoC Pattern
+* Kotlin Android Development
+* Machine Learning Engineering
+* Cloud & DevOps Fundamentals
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fikibrahim&theme=tokyonight&no-frame=true&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=fikibrahim&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/taufik-ibrahim-9a385312b/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:taufikibrahim21@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-## 💬 Motto
+## 💡 Professional Motto
 
-> Building impactful digital solutions through clean architecture, scalable systems, and continuous learning.
+> Building scalable digital solutions through clean architecture, maintainable code, and continuous innovation.
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thank you for visiting my profile ⭐
 </p>
