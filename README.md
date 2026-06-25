@@ -1,7 +1,9 @@
-<h1 align="center">👨‍💻 Taufik Ibrahim</h1>
+<h1 align="center">
+  👨‍💻 Taufik Ibrahim
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Web+Developer;Mobile+Developer;Software+Engineer;Laravel+%7C+Flutter+%7C+Kotlin;Building+AI-Ready+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Web+Developer;Mobile+Developer;Software+Engineer;Laravel+%7C+Flutter+%7C+Kotlin;Building+AI-Ready+Applications" />
 </p>
 
 <p align="center">
@@ -20,9 +22,4 @@ Building scalable enterprise systems, modern mobile applications, and AI-powered
   <img src="https://komarev.com/ghpvc/?username=fikibrahim&style=for-the-badge&color=blueviolet"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fikibrahim/fikibrahim/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
+<p align="center"> <img src="https://streak-stats.demolab.com?user=fikibrahim&theme=tokyonight&hide_border=true"/> </p>
