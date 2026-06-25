@@ -53,13 +53,9 @@ Currently Learning:
 
 ---
 
-## 🚀 Current Focus
+🏆 GitHub Trophies
 
-* Enterprise Web Applications
-* Flutter Architecture & BLoC
-* Kotlin Android Development
-* REST API Integration
-* AI & Machine Learning
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=fikibrahim&theme=tokyonight&no-frame=true&margin-w=10&row=1" /> </p>
 
 ---
 
