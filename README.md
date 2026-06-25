@@ -22,10 +22,4 @@ Building scalable enterprise systems, modern mobile applications, and AI-powered
   <img src="https://komarev.com/ghpvc/?username=fikibrahim&style=for-the-badge&color=blueviolet"/>
 </p>
 
-## 📊 GitHub Analytics 
-
-<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=fikibrahim&show_icons=true&theme=tokyonight&hide_border=true" /> 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikibrahim&layout=compact&theme=tokyonight&hide_border=true" /> 
-</p>
-  
 <p align="center"> <img src="https://streak-stats.demolab.com?user=fikibrahim&theme=tokyonight&hide_border=true"/> </p>
